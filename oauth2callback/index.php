@@ -49,7 +49,7 @@ if(isset($_GET['code'])) {
 		$MenuItem->id = "like";
 		$Value = new Google_Menu_Item_Value();
 		$Value->displayName = "Like";
-		$Value->iconUrl = "http://tonygaitatzis.com/glassware/bitcointicker/assets/img/like.png";
+		$Value->iconUrl = "http://example.com/assets/img/like.png";
 		$Value->state = Google_Menu_Item_Value::STATE_DEFAULT;
 		$MenuItem->values[] = $Value;
 		$Google_Timeline_Item->menuItems[] = $MenuItem;
