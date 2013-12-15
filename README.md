@@ -4,7 +4,7 @@ This code shows how to add menu items to your Glass Timeline cards, so that user
 can interact with content you provide
 
 It is intended as a complement to my tutorial:
-http://20missionglass.tumblr.com/post/67676363275/add-your-service-as-a-contact
+http://20missionglass.tumblr.com/post/70031065981/adding-menu-options-to-timeline-cards
 
 Configuration
 --------------
